@@ -51,11 +51,15 @@ Menu Category Slicer — Filter by food category
 5 Key Insights
 Insight 1 — Revenue up but spending down:
 Revenue grew 9.97% but AOV dropped -0.27% — more customers came but each spent less per visit → upselling needed
+
 Insight 2 — Most profitable item:
 Corn & Mayo Club made the highest profit ($1,336) — not the most popular item but the most profitable → promote it more
+
 Insight 3 — Food cost too high:
 Food Cost ($31K) was 2.5x higher than Labour Cost ($12K) → food procurement is biggest cost saving opportunity
+
 Insight 4 — Seasonal gap:
 November best month ($3,900) vs September worst ($2,566) → $1,334 gap → plan promotions for September in advance
+
 Insight 5 — Digital payments dominate:
 75.20% revenue from digital payments (UPI/Online/Card) vs 24.8% cash → business is digital-first
